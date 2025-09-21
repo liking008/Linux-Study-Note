@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/liking008/Linux-Study-Note.git
 cd Linux-Study-Note
-npm istall honkit
+npm install honkit
 npx honkit init
 npx honkit build 
 ```
